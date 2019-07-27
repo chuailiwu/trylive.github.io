@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 运动书生&#39; blog</title>
+    <link>https://liwuchuai.github.io/trylive.github.io/posts/</link>
+    <description>Recent content in Posts on 运动书生&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 Jul 2019 10:28:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://liwuchuai.github.io/trylive.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soul</title>
+      <link>https://liwuchuai.github.io/trylive.github.io/2019/soul/</link>
+      <pubDate>Sun, 14 Jul 2019 10:28:24 +0800</pubDate>
+      
+      <guid>https://liwuchuai.github.io/trylive.github.io/2019/soul/</guid>
+      <description>What is Soul? Soul是一个基于WebFlux实现的Reactive API网关。 GitHub地址. 快速学习 github源码下有video，可以帮助快</description>
+    </item>
+    
+    <item>
+      <title>github &#43; hugo 搭建博客</title>
+      <link>https://liwuchuai.github.io/trylive.github.io/2019/build_blog/</link>
+      <pubDate>Tue, 25 Jun 2019 10:47:47 +0800</pubDate>
+      
+      <guid>https://liwuchuai.github.io/trylive.github.io/2019/build_blog/</guid>
+      <description>正如你看到的，本博客正是用github + hugo搭建，搭建过程主要参考文档 准备工作 github 申请账号，创建库 hugo 本地安装 hugo 生成的静态网页上传到gith</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://liwuchuai.github.io/trylive.github.io/2019/second/</link>
+      <pubDate>Mon, 24 Jun 2019 23:09:18 +0800</pubDate>
+      
+      <guid>https://liwuchuai.github.io/trylive.github.io/2019/second/</guid>
+      <description>it is my second blog</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://liwuchuai.github.io/trylive.github.io/2019/welcome/</link>
+      <pubDate>Mon, 24 Jun 2019 22:08:37 +0800</pubDate>
+      
+      <guid>https://liwuchuai.github.io/trylive.github.io/2019/welcome/</guid>
+      <description>welcome to my blog</description>
+    </item>
+    
+  </channel>
+</rss>
